@@ -1,1 +1,2 @@
 checkpoint_v12/train/events.out.tfevents.* filter=lfs diff=lfs merge=lfs -text
+*.zip filter=lfs diff=lfs merge=lfs -text
