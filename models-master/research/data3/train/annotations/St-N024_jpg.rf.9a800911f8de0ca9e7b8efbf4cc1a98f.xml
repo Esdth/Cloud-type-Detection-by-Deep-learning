@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>St-N024_jpg.rf.9a800911f8de0ca9e7b8efbf4cc1a98f.jpg</filename>
+	<path>St-N024_jpg.rf.9a800911f8de0ca9e7b8efbf4cc1a98f.jpg</path>
+	<source>
+		<database>roboflow.com</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>640</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>St</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>1</xmin>
+			<xmax>641</xmax>
+			<ymin>42</ymin>
+			<ymax>431</ymax>
+		</bndbox>
+	</object>
+</annotation>

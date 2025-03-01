@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>Sc-N074_jpg.rf.7d9bf12b83f0fb4594579e77a8d51edd.jpg</filename>
+	<path>Sc-N074_jpg.rf.7d9bf12b83f0fb4594579e77a8d51edd.jpg</path>
+	<source>
+		<database>roboflow.com</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>640</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Sc</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>4</xmin>
+			<xmax>641</xmax>
+			<ymin>1</ymin>
+			<ymax>360</ymax>
+		</bndbox>
+	</object>
+</annotation>

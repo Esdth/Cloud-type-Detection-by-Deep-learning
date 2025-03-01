@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>Sc-N104_jpg.rf.b7420b48dfd0e5dc47856f8c0d650200.jpg</filename>
+	<path>Sc-N104_jpg.rf.b7420b48dfd0e5dc47856f8c0d650200.jpg</path>
+	<source>
+		<database>roboflow.com</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>640</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Sc</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>1</xmin>
+			<xmax>641</xmax>
+			<ymin>160</ymin>
+			<ymax>497</ymax>
+		</bndbox>
+	</object>
+</annotation>

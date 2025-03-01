@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>Ct-N087_jpg.rf.2748032b10138b23870851c6d2350237.jpg</filename>
+	<path>Ct-N087_jpg.rf.2748032b10138b23870851c6d2350237.jpg</path>
+	<source>
+		<database>roboflow.com</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>640</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Ct</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>1</xmin>
+			<xmax>641</xmax>
+			<ymin>57</ymin>
+			<ymax>499</ymax>
+		</bndbox>
+	</object>
+</annotation>

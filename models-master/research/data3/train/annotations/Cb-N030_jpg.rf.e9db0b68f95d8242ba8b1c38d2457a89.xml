@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>Cb-N030_jpg.rf.e9db0b68f95d8242ba8b1c38d2457a89.jpg</filename>
+	<path>Cb-N030_jpg.rf.e9db0b68f95d8242ba8b1c38d2457a89.jpg</path>
+	<source>
+		<database>roboflow.com</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>640</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Cb</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>1</xmin>
+			<xmax>641</xmax>
+			<ymin>107</ymin>
+			<ymax>641</ymax>
+		</bndbox>
+	</object>
+</annotation>

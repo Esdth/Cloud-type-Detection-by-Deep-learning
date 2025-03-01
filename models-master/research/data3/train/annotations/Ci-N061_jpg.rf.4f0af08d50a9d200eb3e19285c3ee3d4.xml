@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>Ci-N061_jpg.rf.4f0af08d50a9d200eb3e19285c3ee3d4.jpg</filename>
+	<path>Ci-N061_jpg.rf.4f0af08d50a9d200eb3e19285c3ee3d4.jpg</path>
+	<source>
+		<database>roboflow.com</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>640</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Ci</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>1</xmin>
+			<xmax>641</xmax>
+			<ymin>1</ymin>
+			<ymax>641</ymax>
+		</bndbox>
+	</object>
+</annotation>

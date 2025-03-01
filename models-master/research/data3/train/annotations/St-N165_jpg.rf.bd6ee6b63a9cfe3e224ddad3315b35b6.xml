@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>St-N165_jpg.rf.bd6ee6b63a9cfe3e224ddad3315b35b6.jpg</filename>
+	<path>St-N165_jpg.rf.bd6ee6b63a9cfe3e224ddad3315b35b6.jpg</path>
+	<source>
+		<database>roboflow.com</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>640</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>St</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>1</xmin>
+			<xmax>317</xmax>
+			<ymin>178</ymin>
+			<ymax>461</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>Ac-N075_jpg.rf.73b2743a493b801b6959ac8a4cecd418.jpg</filename>
+	<path>Ac-N075_jpg.rf.73b2743a493b801b6959ac8a4cecd418.jpg</path>
+	<source>
+		<database>roboflow.com</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>640</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Ac</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>1</xmin>
+			<xmax>624</xmax>
+			<ymin>1</ymin>
+			<ymax>240</ymax>
+		</bndbox>
+	</object>
+</annotation>

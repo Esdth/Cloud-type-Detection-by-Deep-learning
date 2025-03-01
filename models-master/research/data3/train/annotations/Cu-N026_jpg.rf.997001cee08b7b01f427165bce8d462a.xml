@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>Cu-N026_jpg.rf.997001cee08b7b01f427165bce8d462a.jpg</filename>
+	<path>Cu-N026_jpg.rf.997001cee08b7b01f427165bce8d462a.jpg</path>
+	<source>
+		<database>roboflow.com</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>640</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Cu</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>1</xmin>
+			<xmax>641</xmax>
+			<ymin>1</ymin>
+			<ymax>616</ymax>
+		</bndbox>
+	</object>
+</annotation>

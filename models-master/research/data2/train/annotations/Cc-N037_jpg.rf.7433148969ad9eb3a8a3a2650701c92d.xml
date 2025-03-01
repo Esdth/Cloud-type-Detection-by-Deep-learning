@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>Cc-N037_jpg.rf.7433148969ad9eb3a8a3a2650701c92d.jpg</filename>
+	<path>Cc-N037_jpg.rf.7433148969ad9eb3a8a3a2650701c92d.jpg</path>
+	<source>
+		<database>roboflow.com</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>640</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Cc</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>1</xmin>
+			<xmax>641</xmax>
+			<ymin>10</ymin>
+			<ymax>522</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>Ns-N197_jpg.rf.315b80b51bef79dfda84445a3e4dd93b.jpg</filename>
+	<path>Ns-N197_jpg.rf.315b80b51bef79dfda84445a3e4dd93b.jpg</path>
+	<source>
+		<database>roboflow.com</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>640</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Ns</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>1</xmin>
+			<xmax>616</xmax>
+			<ymin>1</ymin>
+			<ymax>287</ymax>
+		</bndbox>
+	</object>
+</annotation>

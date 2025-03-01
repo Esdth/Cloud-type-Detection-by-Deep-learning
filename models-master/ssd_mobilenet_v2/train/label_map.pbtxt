@@ -1,0 +1,44 @@
+item {
+  id: 1
+  name: "Ac"
+}
+item {
+  id: 2
+  name: "As"
+}
+item {
+  id: 3
+  name: "Cb"
+}
+item {
+  id: 4
+  name: "Cc"
+}
+item {
+  id: 5
+  name: "Ci"
+}
+item {
+  id: 6
+  name: "Cs"
+}
+item {
+  id: 7
+  name: "Ct"
+}
+item {
+  id: 8
+  name: "Cu"
+}
+item {
+  id: 9
+  name: "Ns"
+}
+item {
+  id: 10
+  name: "Sc"
+}
+item {
+  id: 11
+  name: "St"
+}

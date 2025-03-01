@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>As-N043_jpg.rf.040ac8ae1e507a86a9d37b452eafc54b.jpg</filename>
+	<path>As-N043_jpg.rf.040ac8ae1e507a86a9d37b452eafc54b.jpg</path>
+	<source>
+		<database>roboflow.com</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>640</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>As</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>1</xmin>
+			<xmax>641</xmax>
+			<ymin>48</ymin>
+			<ymax>447</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>Cs-N150_jpg.rf.7d40af02c3bfda43b560866b6a521ba1.jpg</filename>
+	<path>Cs-N150_jpg.rf.7d40af02c3bfda43b560866b6a521ba1.jpg</path>
+	<source>
+		<database>roboflow.com</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>640</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Cs</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>1</xmin>
+			<xmax>623</xmax>
+			<ymin>89</ymin>
+			<ymax>599</ymax>
+		</bndbox>
+	</object>
+</annotation>

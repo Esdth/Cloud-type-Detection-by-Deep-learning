@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>Cb-N087_jpg.rf.87cac733003b34412ae449e1f24f6449.jpg</filename>
+	<path>Cb-N087_jpg.rf.87cac733003b34412ae449e1f24f6449.jpg</path>
+	<source>
+		<database>roboflow.com</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>640</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Cb</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>1</xmin>
+			<xmax>641</xmax>
+			<ymin>74</ymin>
+			<ymax>641</ymax>
+		</bndbox>
+	</object>
+</annotation>
